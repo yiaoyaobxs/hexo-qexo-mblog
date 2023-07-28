@@ -1,0 +1,6 @@
+.vercel
+*.py[cod]
+.idea
+tmp
+venv
+./configs.py
